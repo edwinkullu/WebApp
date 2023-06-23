@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRYa/k5mKWKpmXjdX8m9JrEmtTPmloWc9wKMbuX0aa0LtL4DduHva4zxCy2SEAUybYI7W8VC1ZRjRk/d98hDdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edwin.k\\OneDrive - iWork Technologies Pvt. Ltd\\Desktop\\Webapp\\Webapp\\Webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwin.k\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
